@@ -1,7 +1,7 @@
 const sonarqubeScanner = require('sonarqube-scanner');
 
 sonarqubeScanner({
-  serverUrl: 'http://3.108.220.14:9000/',
+  serverUrl: 'http://52.66.238.82:9000/',
        options : {
 	    'sonar.projectDescription': 'This is a Node JS application',
 	    'sonar.projectName': 'Node JS Application - Sample',
